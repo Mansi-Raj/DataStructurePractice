@@ -1,4 +1,4 @@
-package DataStructurePractice;
+package DataStructurePractice.Arrays;
 
 import java.util.*;
 

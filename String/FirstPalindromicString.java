@@ -1,4 +1,4 @@
-package DataStructurePractice;
+package DataStructurePractice.String;
 
 import java.util.*;
 
