@@ -30,5 +30,6 @@ public class RearrangeArray {
             arr[i] = s.nextInt();
         }
         System.out.print(a.rearrangeArray(arr));
+        s.close();
     }
 }

@@ -29,5 +29,6 @@ public class Candies {
         Candies c = new Candies();
         List<Boolean> res = c.maxCandies(arr, e);
         System.out.println("The list of boolean values is: " + res);
+        s.close();
     }
 }

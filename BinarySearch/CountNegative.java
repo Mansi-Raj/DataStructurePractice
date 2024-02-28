@@ -32,5 +32,6 @@ public class CountNegative {
             }
         }
         System.out.println("Number of negative elements in the 2D array is:" + cn.countNegatives(grid));
+        s.close();
     }
 }

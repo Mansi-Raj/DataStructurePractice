@@ -24,5 +24,6 @@ public class FirstPalindromicString {
         }
         FirstPalindromicString f = new FirstPalindromicString();
         System.out.println(f.firstPalindromic(s));
+        sc.close();
     }
 }

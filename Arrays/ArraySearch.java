@@ -23,5 +23,6 @@ public class ArraySearch {
         ArraySearch as = new ArraySearch();
         int t = s.nextInt();
         System.out.println(as.search(arr, t));
+        s.close();
     }
 }

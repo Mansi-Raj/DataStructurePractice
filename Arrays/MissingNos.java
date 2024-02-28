@@ -31,5 +31,6 @@ public class MissingNos {
 
         MissingNos m = new MissingNos();
         System.out.print("Missing number: " + m.missingNos(n));
+        s.close();
     }
 }

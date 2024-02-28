@@ -47,5 +47,6 @@ public class ThreeSum {
         for (List<Integer> triplet : result) {
             System.out.println(triplet);
         }
+        s.close();
     }
 }
